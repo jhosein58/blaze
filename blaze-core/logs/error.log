@@ -1,0 +1,2 @@
+2026/07/07 01:50:21 [alert] 13#13: lua_code_cache is off; this will hurt performance in /app/nginx.conf.compiled:20
+2026/07/07 01:50:59 [alert] 13#13: lua_code_cache is off; this will hurt performance in /app/nginx.conf.compiled:20
